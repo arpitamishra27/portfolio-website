@@ -25,10 +25,14 @@ function Projects() {
             <ProjectCard
               imgPath={hms}
               isBlog={false}
-              title="Hospital Management System (HMS)"
-              description="Created a unified platform for patients, doctors and admin to standardize hospital records, appointment booking and payment processing
-              with features like automatic patient ID generation, password encryption, appointment cancellation and automatic pdf bill generation."
-              ghLink="https://github.com/vinitaparasrampuria/Hospital-Management-System"
+              title="Crime Data Analysis, Visualization and Prediction of Crime Events"
+              description="Led a team of 4 people, created user interface using concept of neumorphism and worked on front end.
+              Created a unified platform for crime data visualization, analysis and real-time prediction of future crime trends. 
+              It is advanced as acomplete product and can be applied for any country's dataset.
+               Formed backend through zingcharts, amcharts, anymap, folium and google maps embed 
+               API to conduct data visualization.• Live prediction on dataset is carried out by 
+               time series forecasting with Prophet library of python."
+              ghLink="https://github.com/arpitamishra27/Crime-Data-Analysis"
               
             />
           </Col>
