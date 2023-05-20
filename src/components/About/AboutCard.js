@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Arpita Mishra </span>
             from <span className="purple"> New York, US.</span>
-            <br />I am a graduate student pursuing Computer Engineering from New York University. 
-            <br/>My current GPA is <span className="purple">3.5</span>.
+            <br />I graduated with MS in Computer Engineering from New York University. 
+            <br/>My GPA is <span className="purple">3.7/4</span>.
             <br /> 
            
             
@@ -55,7 +55,7 @@ function AboutCard() {
               <ImPointRight /> Cooking
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing logs
+              <ImPointRight /> Writing blogs
             </li>
           </ul>
 
